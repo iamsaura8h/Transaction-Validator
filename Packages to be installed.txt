@@ -1,0 +1,4 @@
+NumPy version: 1.26.4
+Torch version: 2.3.1+cpu
+Torchvision version: 0.18.1+cpu
+easyocr version: 1.7.1
